@@ -1,2 +1,2 @@
 # Ch8-Vehicle-Builder
-Repo for challenge 8 Vehicle Builder project
+This is the Repo for challenge 8 Vehicle Builder project.
