@@ -32,4 +32,4 @@ THEN I can perform additional actions until I choose to exit
 
 I learned that you can build complex applications using the command line, typescript and javascript.
 
-Vehicle-Builder_app walktrough video: 
+Vehicle-Builder_app walktrough video: https://youtu.be/LRXT1XI1nsc
