@@ -1,7 +1,7 @@
 # Ch8-Vehicle-Builder
 #README for Vehicle-Builder_app
 Module 8 Challenge - Vehicle-Builder_app 
-I had to modify a starter code and update it to createa Vehicle Builder app using the command line 
+I had to modify a starter code and update it to create a Vehicle Builder app using the command line 
 I have to gather User's inputs and rturn the user to the menu until they choose to exit application
 
 The application is involked by using npm start in the command line terminal 
